@@ -36,7 +36,7 @@ $dbcon = mysqli_connect("localhost", "root", "", "crud");
                 </div>
                 <div class="form-item">
                     <label for="username">Father's Name:</label>
-                    <input type="text" name="father_name" id="fathersname" placeholder="Father's Full Name" required>
+                    <input type="text" name="father_name" id ="fathersname" placeholder="Father's Full Name" required>
                 </div>
                 <div class="form-item">
                     <label for="username">Mother's Name:</label>
